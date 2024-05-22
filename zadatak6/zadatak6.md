@@ -21,5 +21,5 @@
         Odgovor je nadjen na <http://www.ftn.uns.ac.rs/102746447/novi-sajt> i jeste: 18/05/2005
     - 4) The year when studies in the field of "Poštanski saobraćaj i telekomunikacije" were introduced.
         Odgovor je nadjen na <http://www.ftn.uns.ac.rs/n1243898707/faculty-of-technical-sciences> i jeste: 1999
-
+- Spojenu sifru uneti pri otvaranju zapakovanog fajla pri cemu dobijamo flag.png sliku koju mozete videti ispod.
         ![Alt text](flag.png)
